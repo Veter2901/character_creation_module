@@ -1,0 +1,48 @@
+[33mcommit 2dc000692cb119d31b0f627bb0da61e9757183f8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Дмитрий Уткин <veter2901@yandex.ru>
+Date:   Wed Nov 9 19:47:07 2022 +0400
+
+    1
+
+[33mcommit 07afb1bc3a2f88e4f343991e9278fc6e89b48bad[m
+Merge: 4006149 39292e3
+Author: Дмитрий Уткин <veter2901@yandex.ru>
+Date:   Wed Nov 9 19:41:54 2022 +0400
+
+    Join main.py
+
+[33mcommit 40061492670009634418fecd29e029677c8e7346[m
+Author: Дмитрий Уткин <veter2901@yandex.ru>
+Date:   Mon Nov 7 21:58:29 2022 +0400
+
+    Docstr def
+
+[33mcommit 39292e32ae65abe43b615433f71a5773d7fec60c[m
+Author: Дмитрий Уткин <veter2901@yandex.ru>
+Date:   Mon Nov 7 21:58:29 2022 +0400
+
+    code according to PEP8
+
+[33mcommit b41ff653ce9872c8a7f98518cecbf11e3cab48f9[m
+Author: Andrew Gorlov <Gorlov.a@mail.ru>
+Date:   Tue Aug 30 21:04:57 2022 +0300
+
+    Изменены реплики
+
+[33mcommit a0ae87d61cc0eae6baf2cc11d9b430d47547f1c3[m
+Author: Andrew Gorlov <Gorlov.a@mail.ru>
+Date:   Mon Jul 18 00:21:50 2022 +0300
+
+    fix tests
+
+[33mcommit 1fd92e4f32013256d22ff687332e484cc820bf54[m
+Author: Andrew Gorlov <Gorlov.a@mail.ru>
+Date:   Sun Jul 10 22:28:28 2022 +0300
+
+    first commit
+
+[33mcommit 068ae72e543629c918a48ab132f263bcc7729ec0[m
+Author: Andrew Gorlov <Gorlov.a@mail.ru>
+Date:   Sat Jul 9 23:38:12 2022 +0300
+
+    Initial commit
